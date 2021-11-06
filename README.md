@@ -1,4 +1,4 @@
-# CPSC_A3-Titanic
+# CPSC_A3-Titanic Survival Rate
 
 ### Analysis Overview
 This project is about an analysis of Titanic passenger survival rate based on the following:
